@@ -1,0 +1,12 @@
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.deps.json
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.dll
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.pdb
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.csproj.AssemblyReference.cache
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.AssemblyInfoInputs.cache
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.AssemblyInfo.cs
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.csproj.CoreCompileInputs.cache
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.dll
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\refint\SM.Enitty.dll
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.pdb
+E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\ref\SM.Enitty.dll
