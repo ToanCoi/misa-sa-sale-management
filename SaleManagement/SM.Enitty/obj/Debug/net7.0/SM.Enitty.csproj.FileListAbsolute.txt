@@ -10,3 +10,15 @@ E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.d
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\refint\SM.Enitty.dll
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.pdb
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Enitty\obj\Debug\net7.0\ref\SM.Enitty.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.deps.json
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\bin\Debug\net7.0\SM.Enitty.pdb
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.csproj.AssemblyReference.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.AssemblyInfoInputs.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.AssemblyInfo.cs
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.csproj.CoreCompileInputs.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\refint\SM.Enitty.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\SM.Enitty.pdb
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Enitty\obj\Debug\net7.0\ref\SM.Enitty.dll

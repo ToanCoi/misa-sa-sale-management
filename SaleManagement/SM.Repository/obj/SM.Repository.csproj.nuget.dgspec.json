@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj": {}
+    "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj": {
+    "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
-        "projectName": "SM.Repository",
-        "projectPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
-        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\obj\\",
+        "projectUniqueName": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj",
+        "projectName": "SM.Enitty",
+        "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,6 +28,65 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
+        "projectName": "SM.Repository",
+        "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj": {
+                "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

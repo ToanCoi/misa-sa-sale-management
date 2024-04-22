@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xpkx7PcnfnyfAqxHaJ27wiPHDifxgxeTOf8yNO+ZdO6bZ3gx4QlONtHOPOYjAKf8DQVeiJdxleYTAcHdOhGjLw==",
+  "dgSpecHash": "d+u9Xlt8JKzByqRWHKnspoe3kt3dYm5aRau2BfQXM4Xicm3dEa+hoaTQOOK+lLVtafOAwe1a81BTf66oleRSVw==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
+  "projectFilePath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

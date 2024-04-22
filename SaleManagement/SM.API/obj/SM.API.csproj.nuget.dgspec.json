@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj": {}
+    "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj": {
+    "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj",
+        "projectUniqueName": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj",
         "projectName": "SM.API",
-        "projectPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj",
-        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.API\\obj\\",
+        "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.API\\SM.API.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

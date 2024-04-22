@@ -10,3 +10,15 @@ E:\Learn\SA\SaleManagement\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Service\obj\Debug\net7.0\refint\SM.Service.dll
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.pdb
 E:\Learn\SA\SaleManagement\SaleManagement\SM.Service\obj\Debug\net7.0\ref\SM.Service.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\bin\Debug\net7.0\SM.Service.deps.json
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\bin\Debug\net7.0\SM.Service.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\bin\Debug\net7.0\SM.Service.pdb
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.csproj.AssemblyReference.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.AssemblyInfoInputs.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.AssemblyInfo.cs
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.csproj.CoreCompileInputs.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\refint\SM.Service.dll
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\SM.Service.pdb
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Service\obj\Debug\net7.0\ref\SM.Service.dll

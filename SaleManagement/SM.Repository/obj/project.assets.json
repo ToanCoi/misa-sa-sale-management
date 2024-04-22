@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "SM.Enitty/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SM.Enitty.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SM.Enitty.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SM.Enitty/1.0.0": {
+      "type": "project",
+      "path": "../SM.Enitty/SM.Enitty.csproj",
+      "msbuildProject": "../SM.Enitty/SM.Enitty.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "SM.Enitty >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\MY PC\\.nuget\\packages\\": {}
+    "C:\\Users\\nguye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
+      "projectUniqueName": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
       "projectName": "SM.Repository",
-      "projectPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
-      "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\SA\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\obj\\",
+      "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\SM.Repository.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj": {
+              "projectPath": "E:\\Code\\misa-sa-sale-management\\SaleManagement\\SM.Enitty\\SM.Enitty.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

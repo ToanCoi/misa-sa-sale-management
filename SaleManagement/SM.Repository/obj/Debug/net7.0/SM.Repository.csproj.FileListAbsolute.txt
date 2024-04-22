@@ -1,0 +1,5 @@
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Repository\obj\Debug\net7.0\SM.Repository.csproj.AssemblyReference.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Repository\obj\Debug\net7.0\SM.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Repository\obj\Debug\net7.0\SM.Repository.AssemblyInfoInputs.cache
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Repository\obj\Debug\net7.0\SM.Repository.AssemblyInfo.cs
+E:\Code\misa-sa-sale-management\SaleManagement\SM.Repository\obj\Debug\net7.0\SM.Repository.csproj.CoreCompileInputs.cache
